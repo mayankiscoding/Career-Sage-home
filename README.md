@@ -17,10 +17,12 @@ Find the complete approach and detailed solution in our presentation. Click here
 # Project Preview 
 
 ![WhatsApp Image 2023-11-05 at 13 04 50_9fd10f66](https://github.com/Dev-98/Career-Sage/assets/90096363/bd0bb232-4319-43cc-82b9-ff62ed451150)
-![features_1](https://github.com/Dev-98/Career-Sage/assets/90096363/5eb87659-486d-41ca-97d2-42bb734d0a34)
 ![WhatsApp Image 2023-11-05 at 13 09 53_e752e42e](https://github.com/Dev-98/Career-Sage/assets/90096363/bea1e291-6a5c-4fc3-9cf2-2563c1548705)
 ![WhatsApp Image 2023-11-05 at 13 10 53_a593e5eb](https://github.com/Dev-98/Career-Sage/assets/90096363/91e71fa6-5f21-4f71-bc83-505e1f965496)
-![mcq4_1_1](https://github.com/Dev-98/Career-Sage/assets/90096363/c37ec179-7dcc-4e7f-9978-92450a3b0f6d)
+![WhatsApp Image 2023-11-05 at 13 44 37_a618b613](https://github.com/Dev-98/Career-Sage/assets/90096363/7d45ec89-723f-4c2a-a820-e83688638dfd)
+![WhatsApp Image 2023-11-05 at 13 17 49_38658274](https://github.com/Dev-98/Career-Sage/assets/90096363/5e7ecbe8-9409-46f3-8c7b-aa763c9efd43)
+![WhatsApp Image 2023-11-05 at 13 23 15_144e257f](https://github.com/Dev-98/Career-Sage/assets/90096363/961577e8-4cc3-4051-a4cc-85a4ecbc33f2)
+
 
 # Team Details
 ![team details](https://github.com/Dev-98/Career-Sage/assets/90096363/35772ccd-baf7-4b81-974f-431898ed8c65)
